@@ -25,7 +25,8 @@
 		"express": "^4.18.2",
 		"mongodb": "3.0",
 		"mongoose": "^7.4.2",
-		"validation": "0.0.1"
+		"validation": "0.0.1",
+		"vercel": "^31.2.2"
 	},
 	"devDependencies": {
 		"nodemon": "^3.0.1"
