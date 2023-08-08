@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://dtm3080:Harshil3010@cluster0.moc6dgk.mongodb.net/?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://dtm3080:Harshil3010@cluster0.moc6dgk.mongodb.net/?retryWrites=true&w=majority",
+	".evn": "mongodb+srv://vercel-admin-user-64d253139245ba6103758af7:Z1Xt8aLRN0Vu6yqz@cluster0.moc6dgk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
