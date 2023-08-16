@@ -33,6 +33,7 @@ const Articles: NextPage<ArticlesProps> = ({ articles }) => {
 		</div>
 	);
 };
+
 export const getStaticProps: GetStaticProps<ArticlesProps> = async (_) => {
 	// Map the data to ensure all articles have consistent property names
 	const articles = data.articles.map((article) => ({
